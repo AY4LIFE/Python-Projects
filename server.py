@@ -1,4 +1,4 @@
-# This code sets up the web server for use in CPSC 231 only
+# To access the website, go to https://cspages.ucalgary.ca/~richard.zhao1/chat231/
 # By Richard Zhao
 # This file should not be edited in any way
 # Your code should be created in a new, separate file called support_functions.py
